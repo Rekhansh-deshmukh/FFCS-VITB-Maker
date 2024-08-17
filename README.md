@@ -36,7 +36,7 @@ This project uses plain HTML, CSS, and JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ffcs-vitb-maker.git
+   git clone https://github.com/Cyb3rGhoul/FFCS-VITB-Maker.git
    ```
 2. Open `index.html` in your preferred browser.
 
